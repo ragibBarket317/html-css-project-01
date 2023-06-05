@@ -1,0 +1,49 @@
+
+@media (max-width: 575.98px) { 
+    .navigation{
+        display: none;
+    }
+    .banner-section:before{
+        display: none;
+    }
+    .two-column{
+        width: 100%;
+    }
+    .flex-card, .flex{
+        flex-direction: column;
+    }
+    .price-item{
+        width: 100% !important;
+    }
+    .price-item-text .get-started-btn{
+        width: 100% !important;
+    }
+    .video-item .video iframe{
+        width: 100%;
+    }
+    .video-column-1{
+        width: 100% !important;
+    }
+    .video-column-2{
+        width: 100% !important;
+    }
+    .form-btn{
+        width: 100% !important;
+    }
+ }
+
+@media (max-width: 767.98px) { 
+
+}
+
+@media (max-width: 991.98px) {
+
+}
+
+@media (max-width: 1199.98px) {
+
+}
+
+@media (max-width: 1399.98px) {
+
+}
